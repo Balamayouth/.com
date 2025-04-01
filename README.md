@@ -29,7 +29,7 @@
   <header class="bg-blue-50 text-blue-800 py-4 sticky top-0 z-50 border-b border-blue-100">
     <div class="container mx-auto px-4 flex justify-between items-center">
       <div class="flex items-center">
-        </a>
+        
         <h1 class="text-2xl md:text-3xl font-bold">فريق تطوع شباب بلعما</h1>
       </div>
       
